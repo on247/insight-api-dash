@@ -45,7 +45,7 @@
   },
   "dependencies": {
     "async": "*",
-    "base58-native": "0.1.2",
+    "base58-native": "0.1.4",
     "bignum": "*",
     "morgan": "*",
     "darkcore": "git://github.com/on247/darkcore.git",
